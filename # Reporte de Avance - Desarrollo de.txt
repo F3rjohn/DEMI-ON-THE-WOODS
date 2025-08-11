@@ -1,0 +1,86 @@
+# Reporte de Avance - Desarrollo de Videojuego
+
+**Nombre del equipo:** [Fernando L.G]  
+**Integrantes:**  
+- Fernando Lizárraga García 
+ 
+  
+
+**Nombre del videojuego (tentativo):** [Nombre del juego]: #  
+**Fecha de entrega del reporte:** [08/07/2025]: #  
+**Resumen:** [Demi On The Woods/ genero. Plataformero-Acción y Aventura, una chica se adentra a un gran bosque lleno de enigmas y en búsqueda de un legendario Dragón]: #
+
+
+---
+
+## Tabla de evaluaciÃ³n del equipo.
+
+| Nombre | ColaboraciÃ³n | ComunicaciÃ³n | Responsabilidad
+| ----------- | ----------- | ----------- | ----------- |
+| Header | Title | - | - |
+| Paragraph | Text |  - | - |  todo bien 
+
+---
+
+## ðŸŽ¯ Objetivos del sprint
+
+- [ ] Objetivo 1 (Implementar movimiento del personaje)
+- [ ] Objetivo 2 (Implementar el mapa del primer novel como prototipo)
+- [ ] Objetivo 3 (avances en la configuración de scripts)
+
+---
+
+## Video de avances
+
+Enlace al video. Breve resumen de contenido del video. ¿Qué se muestra? ¿Qué avances lograron? ¿Qué problemas enfrenaron?
+
+https://drive.google.com/drive/folders/1mmhmODTUUGrxZSrbDZvHYE2_Z0cGagzm (avances en movimiento del jugador/problemas relacionadas al script
+---
+
+## âœ… Avances técnicos
+
+- [x] [corrección de sripts de movimiento]
+- [ ] Progreso en arte, sonido, interfaz, niveles.
+- [x] Se implementó el sistema de colisiones]
+- [x] [Captura de pantalla o link a repositorio opcional]
+
+---https://drive.google.com/drive/folders/1mmhmODTUUGrxZSrbDZvHYE2_Z0cGagzm
+
+## ðŸž Problemas o bloqueos
+
+- [DescripciÃ³n breve del problema]
+- Â¿QuÃ© se hizo para resolverlo?
+- Â¿QuÃ© se necesita? (ej. asesorÃ­a, mÃ¡s tiempo, recursos)
+
+---https://drive.google.com/drive/folders/1mmhmODTUUGrxZSrbDZvHYE2_Z0cGagzm
+
+## ðŸ”„ Cambios respecto al plan original
+
+- [DescripciÃ³n de cualquier cambio importante en mecÃ¡nicas, arte, alcance, etc.]
+
+---Ninguna, aun en proceso
+
+## ðŸ§ª Pruebas o avances tÃ©cnicos
+
+- [EN EFECTO SE PUSO A PRUEBA CONSTANTEMENTE EL PROTOTIPO]
+- [Incluye gifs, capturas o links si aplica]
+
+---
+
+## ðŸ—“ï¸ PrÃ³ximos pasos
+
+[Lista breve de tarea por hacer o retos identificados.]: #
+
+- [ ]  MEJORAS EN MOVIMIENTO Y DESARROLLO FINAL
+
+---
+
+## ðŸ”— Enlaces relevantes
+
+- Repositorio en GitHub: [https://f3rjohn1807.itch.io/demi-on-the-woods]  
+- Documento de diseÃ±o (GDD): [https://drive.google.com/drive/folders/1mmhmODTUUGrxZSrbDZvHYE2_Z0cGagzm]  
+- Video demo (si aplica): [https://drive.google.com/drive/folders/1mmhmODTUUGrxZSrbDZvHYE2_Z0cGagzm]
+
+---
+
+*Este documento fue elaborado por [Fernando Lizárraga García].*
